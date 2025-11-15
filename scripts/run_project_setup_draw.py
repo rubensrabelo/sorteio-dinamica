@@ -1,7 +1,12 @@
-from services import draw_teams, draw_themes
+from services import draw_teams, draw_themes, draw_dev_type
 
 
-if __name__ == "__main__":
+def run_project_setup_draw():
+    print("\n=== TIPO DE DESENVOLVIMENTO SORTEADO ===")
+    dev_type, times_dev = draw_dev_type()
+    print(f"Quantidade de vezes sorteadas: {times_dev}")
+    print("Tipo escolhido:", dev_type)
+
     print("\n=== SORTEIO DE EQUIPES ===")
     times_teams, team1, team2 = draw_teams()
     print(f"Quantidade de vezes sorteadas: {times_teams}")
@@ -13,3 +18,4 @@ if __name__ == "__main__":
     print(f"Quantidade de vezes sorteadas: {times_themes}")
     for theme in themes:
         print("-", theme)
+

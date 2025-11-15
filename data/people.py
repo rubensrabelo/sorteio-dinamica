@@ -1,5 +1,5 @@
 people = [
-    "JV",
+    "João Vitor",
     "Kaio",
     "Rubens",
     "Tailan"

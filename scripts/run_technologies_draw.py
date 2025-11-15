@@ -1,7 +1,7 @@
 from services import draw_technologies
 
 
-if __name__ == "__main__":
+def run_technologies_draw():
     result = draw_technologies()
 
     print("\n=== SORTEIO DE TECNOLOGIAS ===")
