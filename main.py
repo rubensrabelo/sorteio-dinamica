@@ -1,3 +1,5 @@
+from agent import generate_themes
+from config import HUGGINGFACE_API_KEY
 from scripts import (
     run_technologies_draw,
     run_project_setup_draw,
@@ -12,6 +14,9 @@ def main():
     print("3. Sortear TUDO")
 
     choice = input("\nEscolha uma opção: ")
+
+    if choice != "1":
+        generate_themes(HUGGINGFACE_API_KEY)
 
     if choice == "1":
         run_technologies_draw()
