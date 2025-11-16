@@ -1,12 +1,12 @@
 themes = [
-"Gerador de Desculpas Corporativas com Feedback de IA em Tempo Real",
-"Sistema de Monitoramento de Plantas que Twitta Quando Precisa de Água",
-"Rastreador de Humor Global Baseado em Emojis de Redes Sociais",
-"Plataforma de Batalhas de Memes com Votação em Tempo Real",
-"Aplicativo de Tradução de Latido para Linguagem Humana",
-"Gerador Automático de Poemas a Partir de Tweets Antigos",
-"Simulador de Apocalipse Zumbi com Dados de Tráfego em Tempo Real",
-"Condicionador de Ar via IoT que Toca Música Baseada na Umidade",
-"Banco de Dados de Grafites Digitais com Geolocalização",
-"Sistema de Recomendação de Jantares Baseado no Estoque da Sua Geladeira"
+"PetFinder para Aliens",
+"Traduzindo Latidos para Poesia",
+"Gerador de Memes com IA de Século XIX",
+"Rede Social para Plantas com IoT",
+"Simulador de Universos Paralelos em Tempo Real",
+"Toque seu Próprio Nome como uma Sinfonia",
+"Detector de Mentiras via Análise de Piscadas",
+"Controle Seu Vaso Sanitário por Voz com NLP",
+"Compilador de Fofocas de Vizinhos usando Blockchain",
+"Mapeador de Cheiros Urbanos via Crowdsourcing"
 ]
