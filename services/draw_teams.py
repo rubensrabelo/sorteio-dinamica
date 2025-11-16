@@ -11,7 +11,10 @@ def draw_teams():
     for _ in range(times):
         final_order = secure_shuffle(final_order)
 
-    team1 = final_order[:2]
-    team2 = final_order[2:]
+    total = len(final_order)
+    half = total // 2
+
+    team1 = final_order[:half]
+    team2 = final_order[half:]
 
     return times, team1, team2
