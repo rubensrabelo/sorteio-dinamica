@@ -18,4 +18,3 @@ def run_project_setup_draw():
     print(f"Quantidade de vezes sorteadas: {times_themes}")
     for theme in themes:
         print("-", theme)
-

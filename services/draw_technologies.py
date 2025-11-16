@@ -6,10 +6,10 @@ from data import mobile
 
 def draw_technologies():
     repetitions = random_times()
-
-    return {
-        "Repetições": repetitions,
+    result = {
         "backend": run_multiple_times(back, repetitions),
         "frontend": run_multiple_times(front, repetitions),
         "mobile": run_multiple_times(mobile, repetitions),
     }
+
+    return repetitions, result

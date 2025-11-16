@@ -3,6 +3,7 @@ from utils import random_times
 from utils import secure_shuffle
 from data import people
 
+
 def draw_teams():
     times = random_times()
     final_order = people

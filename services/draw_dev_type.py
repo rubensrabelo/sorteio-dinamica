@@ -2,6 +2,7 @@ from utils import random_times
 from utils import secure_shuffle
 from data import dev_type
 
+
 def draw_dev_type():
     times = random_times()
     last_result = None

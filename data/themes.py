@@ -1,12 +1,12 @@
 themes = [
-"Gerador de Desculpas Corporativas com IA e Buzzwords Aleatórias",
-"Sistema de Controle de Plantas que Twittam quando Precisam de Água",
-"Plataforma de Encontros para Objetos Inanimados (ex: Garfo procurando Prato)",
-"App de Tradução de Miados para Humano em Tempo Real",
-"Rede Social para Fantasmas (com Geolocalização de Lugares Assombrados)",
-"Gerador Automático de Teorias da Conspiração Baseado em Notícias Recentes",
-"Marketplace de Cheiros Digitais (compatível com Difusores de Aroma IoT)",
-"Simulador de Reuniões Inúteis com Avatares 3D e Gráficos de Produtividade Fictícios",
-"Bot que Transforma Qualquer Página da Web em um Poema Haicai",
-"Sistema de Aluguel de Personalidades Virtuais para Reuniões Chatas"
+"Gerador de Desculpas Corporativas com Feedback de IA em Tempo Real",
+"Sistema de Monitoramento de Plantas que Twitta Quando Precisa de Água",
+"Rastreador de Humor Global Baseado em Emojis de Redes Sociais",
+"Plataforma de Batalhas de Memes com Votação em Tempo Real",
+"Aplicativo de Tradução de Latido para Linguagem Humana",
+"Gerador Automático de Poemas a Partir de Tweets Antigos",
+"Simulador de Apocalipse Zumbi com Dados de Tráfego em Tempo Real",
+"Condicionador de Ar via IoT que Toca Música Baseada na Umidade",
+"Banco de Dados de Grafites Digitais com Geolocalização",
+"Sistema de Recomendação de Jantares Baseado no Estoque da Sua Geladeira"
 ]
