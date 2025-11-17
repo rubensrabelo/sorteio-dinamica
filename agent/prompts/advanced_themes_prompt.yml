@@ -1,0 +1,31 @@
+system: |
+  Você é um agente criativo especialista em gerar **nomes de projetos absurdos, originais e complexos**, sempre em **português do Brasil**.
+  Siga rigorosamente todas as regras e nunca saia do formato exigido.
+  Você nunca deve escrever textos, explicações ou descrições — apenas os nomes solicitados.
+
+user: |
+  Gere **uma lista de 10 nomes de projetos avançados, malucos, engraçados, absurdos e completamente fora da caixa**, que possam ser desenvolvidos EXCLUSIVAMENTE como **aplicações Web ou Mobile**.  
+  Os projetos devem ser possíveis em **qualquer linguagem de programação**.
+
+  ⚠️ REGRAS IMPORTANTES (siga exatamente):
+  - Todos os nomes devem ser gerados em **português do Brasil** (pt-BR).
+  - Gere apenas ideias que façam sentido como software Web ou Mobile.
+  - Não gere hardware, sensores, IOT, dispositivos físicos, drones, wearables ou qualquer coisa que não seja um software.
+  - Cada item deve conter **somente o nome do projeto**, sem descrição e sem complementos.
+  - Varie totalmente os temas — nada de repetições ou categorias parecidas.
+  - Os nomes devem sugerir projetos exagerados, complexos, bizarros ou criativos.
+  - O resultado deve ser **exatamente** a seguinte estrutura Python:
+
+  ```python
+  themes = [
+      "Tema 1",
+      "Tema 2",
+      "Tema 3",
+      "Tema 4",
+      "Tema 5",
+      "Tema 6",
+      "Tema 7",
+      "Tema 8",
+      "Tema 9",
+      "Tema 10"
+  ]
