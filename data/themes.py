@@ -1,12 +1,12 @@
 themes = [
-"Simulador de Sons de um Planeta Desértico",
-"Chatbot que Responde com Arte",
-"Mapa de Memórias de um Músico",
-"App que Gera Histórias Alternativas",
-"Sistema de Automação de Floresartes",
-"Detector de Música em Vídeo Histórico",
-"Portal de Informação sobre Arte de Cidades",
-"Reconhecimento de Roupas em Imagens Históricas",
-"Aplicação de Configuração de Jardins Virtuais",
-"Inteligência Artificial para Análise de Música Instrumental"
+"Detetor de Falhas de Memória de Cachimbo",
+"Sistema de Gerenciamento de Arquivos Não Existentes",
+"Filtro de Notícias com Base em Sonhos de Crianças",
+"Robô de Ajuste do Humor em Mensagens de Suporte",
+"Agentes de Interação com Criaturas Imaginárias",
+"Sistema de Renomeação Automática de Arquivos de Segurança",
+"Plataforma de Marketing com Base em Correntes de Ação",
+"Ferramenta de Detecção de Imagens de Falsas Memórias",
+"Sistema de Ajuste de Nível de Automatização em Servidores",
+"Aplicativo de Planejamento de Rotas com Base em Intuição"
 ]
