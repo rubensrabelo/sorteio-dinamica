@@ -1,10 +1,15 @@
-Gere **uma lista de 10 nomes de projetos avançados, malucos, engraçados, absurdos e fora da caixa**, que possam ser desenvolvidos tanto para **Web quanto para Mobile** (não quero jogos).
+Gere **uma lista de 10 nomes de projetos avançados, malucos, engraçados, absurdos e fora da caixa**, que possam ser desenvolvidos EXCLUSIVAMENTE para **Web** ou **Mobile** (não quero jogos).  
+Os projetos devem poder ser feitos em **qualquer linguagem de programação**.
+
+⚠️ IMPORTANTE:
+- **Só gere projetos que façam sentido como aplicações Web ou Mobile.**
+- Não gere dispositivos físicos, robôs, hardware, gadgets, sensores, drones, wearables, IOT ou qualquer coisa que não seja um software Web ou Mobile.
 
 REGRAS:
 - Cada item deve conter **apenas o nome do projeto**, sem descrição, explicação ou qualquer texto adicional.
 - Varie totalmente os temas — nada de repetir categorias e não foque apenas em IA.
-- Os nomes devem sugerir projetos complexos, absurdos e criativos (ex.: automações inúteis porém difíceis, sistemas exagerados, integrações bizarros, pipelines complexos, etc.).
-- Todos os projetos devem poder ser feitos tanto em Web quanto em Mobile.
+- Os nomes devem sugerir projetos complexos, absurdos e criativos (ex.: automações inúteis porém difíceis, sistemas exagerados, integrações bizarras, pipelines complexos, etc.).
+- Todos os projetos devem poder ser feitos tanto em Web quanto em Mobile, usando qualquer linguagem de sua escolha.
 - O resultado final deve ser **apenas a lista Python no seguinte formato**:
 
 ```python

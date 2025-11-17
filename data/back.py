@@ -1,12 +1,12 @@
 back = [
-    "Java",
-    "Python",
-    "JavaScript (Node.js)",
+    # "Java",
+    # "Python",
+    # "JavaScript (Node.js)",
     "Go",
     "Rust",
     "PHP",
     "Ruby",
     "C#",
-    "Kotlin", 
+    "Kotlin",
     "TypeScript",
 ]

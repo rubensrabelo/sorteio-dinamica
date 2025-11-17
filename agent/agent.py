@@ -29,7 +29,7 @@ def save_file(result, filename="themes.py"):
 def generate_themes(token: str):
     try:
         client = InferenceClient(token=token)
-        model = "deepseek-ai/DeepSeek-V3-0324"
+        model = "meta-llama/Llama-3.1-8B-Instruct"
 
         prompt_path = (
             Path(__file__).parent

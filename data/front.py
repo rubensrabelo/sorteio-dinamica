@@ -1,6 +1,6 @@
 front = [
-    "HTML, CSS e JS",
-    "React",
+    # "HTML, CSS e JS",
+    # "React",
     "Vue",
     "Angular",
 ]
